@@ -1,1 +1,0 @@
-# Schoool-Faculty-Scheduling-System
