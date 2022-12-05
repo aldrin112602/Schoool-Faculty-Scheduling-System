@@ -362,6 +362,9 @@ section .grid .col-span-2 table td span:hover {
   .nav-bar .row h1 {
     display: none;
   }
+  .nav-bar .row-2 .row span.material-icons {
+    left: 1rem;
+  }
   .nav-bar .row-2 {
     justify-content: space-between;
   }
