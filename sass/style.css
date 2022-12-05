@@ -373,7 +373,7 @@ section .grid .col-span-2 table td span:hover {
     height: 3.4rem;
     background-color: rgb(247, 245, 245);
     flex-grow: 1;
-    padding-left: 3rem;
+    padding-left: 2rem;
     font-size: 0.9rem;
   }
   .nav-bar .row-2 .row button {
